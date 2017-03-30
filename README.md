@@ -3,8 +3,6 @@
 
 RxJava相关
 > 抛物线大神的入门经典:http://gank.io/post/560e15be2dca930e00da1083</br>
-> RxJava2源码1:http://www.jianshu.com/p/23c38a4ed360</br>
-> RxJava2源码2:http://www.jianshu.com/p/6ef45f8ee79d</br>
 > 关于RxJava最友好的文章——背压（Backpressure）: http://www.jianshu.com/p/2c4799fa91a4</br>
 > 关于 RxJava 最友好的文章—— RxJava 2.0 全新来袭 : http://www.jianshu.com/p/220955eefc1f</br>
 > 关于RxJava最友好的文章（进阶） : http://www.jianshu.com/p/e61e1307e538</br>
@@ -67,6 +65,8 @@ Android和H5交互
 
 源码
 > OKHttp源码解析 : http://www.jianshu.com/p/27c1554b7fee</br>
+> RxJava2源码1:http://www.jianshu.com/p/23c38a4ed360</br>
+> RxJava2源码2:http://www.jianshu.com/p/6ef45f8ee79d</br>
 
 推荐学习项目
 > MVP+Dagger2+Rxjava+Retrofit+GreenDao 小应用，包含新闻、图片、视频3个大模块，代码整洁干练 : http://www.jianshu.com/p/b1df2a42a380</br>
