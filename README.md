@@ -50,6 +50,7 @@ Hanlder机制
 反射
 > 理解Android中的注解与反射 : http://www.jianshu.com/p/d4978bbce12a</br>
 > Java基础与提高干货系列——Java反射机制 : http://www.jianshu.com/p/1a60d55a94cd</br>
+
 数据库
 > Android实战——GreenDao3.2的使用，爱不释手 : http://mp.weixin.qq.com/s/4Nx2DacsK65O5LanPZUszA</br>
 
@@ -66,6 +67,7 @@ Android和H5交互
 > Android 动画总结 : http://www.jianshu.com/p/420629118c10</br>
 > Android属性动画解析，让天下没有难画的动画 :　http://www.jianshu.com/p/7c0a8ae737e5</br>
 > Android 高级动画开发系列 矢量图动画 : http://mp.weixin.qq.com/s/enmKJ7S-acYQSOkEL-k6kg</br>
+> 【Android】 给我一个Path，还你一个酷炫动画 : http://mp.weixin.qq.com/s/r9O4VrFg7J8qERwtBBF7lw</br>
 
 性能优化
 > Android性能优化的方方面面 : http://www.jianshu.com/p/b3b09fa29f65</br>
@@ -75,6 +77,13 @@ Android和H5交互
 > Android性能优化系列之内存优化 : http://mp.weixin.qq.com/s/RV0NHClnpD9xMVLGdcUYDg</br>
 > Android UI性能优化 检测应用中的UI卡顿 : http://mp.weixin.qq.com/s/O6rnz2sqBTP8u2lfpa75rg</br>
 > Android性能优化系列 之 apk瘦身 : http://mp.weixin.qq.com/s/LlF5Z0tgTKHf4Vs5YjOYiA</br>
+> Android性能优化-过渡绘制解决方案 : http://mp.weixin.qq.com/s/G9Ppkf_VVWE2wE08jGLhdw</br>
+
+调试
+> Android Studio 调试技巧 : http://mp.weixin.qq.com/s/RzZ8rhYWZQ9ncdci1cRvJA</br>
+
+小技巧
+> Android中一些你可能没注意的小效果实现 : http://mp.weixin.qq.com/s/OWOcVtb59Q5R49HBAWBC6w</br>
 
 版本管理
 > SourceTree的使用 : http://www.jianshu.com/p/5be78fd1b0cb</br>
