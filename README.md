@@ -50,11 +50,14 @@ Hanlder机制
 反射
 > 理解Android中的注解与反射 : http://www.jianshu.com/p/d4978bbce12a</br>
 > Java基础与提高干货系列——Java反射机制 : http://www.jianshu.com/p/1a60d55a94cd</br>
+数据库
+> Android实战——GreenDao3.2的使用，爱不释手 : http://mp.weixin.qq.com/s/4Nx2DacsK65O5LanPZUszA</br>
 
 Android和H5交互
 > Android和H5交互-基础篇 :　http://www.jianshu.com/p/a25907862523</br>
 > Android和H5交互-框架篇 : http://www.jianshu.com/p/02afb387b6b4</br>
 >　Android开发：最全面、最易懂的Webview使用详解 : http://www.jianshu.com/p/3c94ae673e2a</br>
+
 线程
 > 线程、多线程与线程池总结 : http://www.jianshu.com/p/b8197dd2934c</br>
 > 深入分析java线程池的实现原理 :　http://www.jianshu.com/p/87bff5cc8d8c</br>
@@ -71,11 +74,14 @@ Android和H5交互
 > Android性能优化系列之App启动优化 : http://mp.weixin.qq.com/s/4k1ShM6xp0ldARg7uQUD8g</br>
 > Android性能优化系列之内存优化 : http://mp.weixin.qq.com/s/RV0NHClnpD9xMVLGdcUYDg</br>
 > Android UI性能优化 检测应用中的UI卡顿 : http://mp.weixin.qq.com/s/O6rnz2sqBTP8u2lfpa75rg</br>
+> Android性能优化系列 之 apk瘦身 : http://mp.weixin.qq.com/s/LlF5Z0tgTKHf4Vs5YjOYiA</br>
 
 版本管理
 > SourceTree的使用 : http://www.jianshu.com/p/5be78fd1b0cb</br>
+
 抓取数据
 > Android实战 Jsoup实现网络爬虫,糗事百科项目的起步 : http://mp.weixin.qq.com/s/1xtmH9EZHwC-3_d-x-oINw</br>
+
 源码
 > OKHttp源码解析 : http://www.jianshu.com/p/27c1554b7fee</br>
 > RxJava2源码1:http://www.jianshu.com/p/23c38a4ed360</br>
