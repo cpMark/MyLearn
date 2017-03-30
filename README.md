@@ -1,6 +1,9 @@
 编程智慧
 > http://www.jianshu.com/p/7645a5ea7f46</br>
 
+各种工具
+> Android开发时，那些相见恨晚的工具或网站！ : https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw</br>
+
 RxJava相关
 > 抛物线大神的入门经典:http://gank.io/post/560e15be2dca930e00da1083</br>
 > 关于RxJava最友好的文章——背压（Backpressure）: http://www.jianshu.com/p/2c4799fa91a4</br>
