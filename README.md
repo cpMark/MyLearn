@@ -6,6 +6,9 @@
 各种工具
 > Android开发时，那些相见恨晚的工具或网站！ : https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw</br>
 
+开发规范
+> Android 你应该注意的开发规范 : http://mp.weixin.qq.com/s/Xn7fM4zsNrvpDW8xW2m_hQ</br>
+
 RxJava相关
 > 抛物线大神的入门经典:http://gank.io/post/560e15be2dca930e00da1083</br>
 > 关于RxJava最友好的文章——背压（Backpressure）: http://www.jianshu.com/p/2c4799fa91a4</br>
@@ -13,7 +16,7 @@ RxJava相关
 > 关于RxJava最友好的文章（进阶） : http://www.jianshu.com/p/e61e1307e538</br>
 > 深入RxBus]：支持Sticky事件 : http://www.jianshu.com/p/71ab00a2677b</br>
 > 用RxJava实现事件总线(Event Bus) :　http://www.jianshu.com/p/ca090f6e2fe2</br>
-> http://www.jianshu.com/p/0493cc28a811 : http://www.jianshu.com/p/0493cc28a811</br>
+> [深入RxBus]：异常处理 : http://www.jianshu.com/p/0493cc28a811</br>
 > RxJava1.0文档翻译 : https://mcxiaoke.gitbooks.io/rxdocs/content/topics/How-To-Use-RxJava.html</br>
 
 事件分发机制
@@ -64,6 +67,9 @@ Android和H5交互
 > Android性能优化的方方面面 : http://www.jianshu.com/p/b3b09fa29f65</br>
 > Android开发优化之的强引用、软引用、弱引用的使用 : http://www.jianshu.com/p/8488079a939b</br>
 > 关于Android性能优化，该从哪些方面入手？ : http://www.jianshu.com/p/4d6c38e1f5b8</br>
+> Android性能优化系列之App启动优化 : http://mp.weixin.qq.com/s/4k1ShM6xp0ldARg7uQUD8g</br>
+> Android性能优化系列之内存优化 : http://mp.weixin.qq.com/s/RV0NHClnpD9xMVLGdcUYDg</br>
+> Android UI性能优化 检测应用中的UI卡顿 : http://mp.weixin.qq.com/s/O6rnz2sqBTP8u2lfpa75rg</br>
 
 版本管理
 > SourceTree的使用 : http://www.jianshu.com/p/5be78fd1b0cb</br>
@@ -75,5 +81,6 @@ Android和H5交互
 
 推荐学习项目
 > MVP+Dagger2+Rxjava+Retrofit+GreenDao 小应用，包含新闻、图片、视频3个大模块，代码整洁干练 : http://www.jianshu.com/p/b1df2a42a380</br>
+> [源码] Android 不要错过的7个完整项目学习 : http://mp.weixin.qq.com/s/xJtFkhEzKJGoOFQoSzqL5Q</br>
 
 
