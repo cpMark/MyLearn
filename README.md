@@ -57,15 +57,15 @@ Hanlder机制
 Android和H5交互
 > [Android和H5交互-基础篇 ](　http://www.jianshu.com/p/a25907862523)</br>
 > [Android和H5交互-框架篇 ]( http://www.jianshu.com/p/02afb387b6b4)</br>
-> [　Android开发：最全面、最易懂的Webview使用详解 ]( http://www.jianshu.com/p/3c94ae673e2a)</br>
+> [Android开发：最全面、最易懂的Webview使用详解 ]( http://www.jianshu.com/p/3c94ae673e2a)</br>
 
 线程
 > [线程、多线程与线程池总结 ]( http://www.jianshu.com/p/b8197dd2934c)</br>
-> [深入分析java线程池的实现原理 ](　http://www.jianshu.com/p/87bff5cc8d8c)</br>
+> [深入分析java线程池的实现原理 ]( http://www.jianshu.com/p/87bff5cc8d8c)</br>
 
 动画
 > [Android 动画总结 ]( http://www.jianshu.com/p/420629118c10)</br>
-> [Android属性动画解析，让天下没有难画的动画 ](　http://www.jianshu.com/p/7c0a8ae737e5)</br>
+> [Android属性动画解析，让天下没有难画的动画 ]( http://www.jianshu.com/p/7c0a8ae737e5)</br>
 > [Android 高级动画开发系列 矢量图动画 ]( http://mp.weixin.qq.com/s/enmKJ7S-acYQSOkEL-k6kg)</br>
 > [【Android】 给我一个Path，还你一个酷炫动画 ]( http://mp.weixin.qq.com/s/r9O4VrFg7J8qERwtBBF7lw)</br>
 
