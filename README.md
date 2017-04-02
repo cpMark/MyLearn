@@ -100,5 +100,6 @@ Android和H5交互
 推荐学习项目
 > [MVP+Dagger2+Rxjava+Retrofit+GreenDao 小应用，包含新闻、图片、视频3个大模块，代码整洁干练 ]( http://www.jianshu.com/p/b1df2a42a380)</br>
 > [[源码] Android 不要错过的7个完整项目学习 ]( http://mp.weixin.qq.com/s/xJtFkhEzKJGoOFQoSzqL5Q)</br>
+> [RxJava+Retrofit结合的讲解Demo](http://gank.io/post/56e80c2c677659311bed9841)</br>
 
 
