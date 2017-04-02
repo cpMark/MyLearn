@@ -83,6 +83,9 @@ Android和H5交互
 Material Design
 > [最全面的 Material Design 学习资料](http://www.jianshu.com/p/5dfed8a3a017)</br>
 
+RecyclerView
+> [RecyclerView实现复杂页面](http://mp.weixin.qq.com/s/GY_VkEnX8SMZTHl-CSUk4Q)</br>
+
 调试
 > [Android Studio 调试技巧 ]( http://mp.weixin.qq.com/s/RzZ8rhYWZQ9ncdci1cRvJA)</br>
 
