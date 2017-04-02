@@ -78,6 +78,7 @@ Android和H5交互
 > [Android UI性能优化 检测应用中的UI卡顿 ]( http://mp.weixin.qq.com/s/O6rnz2sqBTP8u2lfpa75rg)</br>
 > [Android性能优化系列 之 apk瘦身 ]( http://mp.weixin.qq.com/s/LlF5Z0tgTKHf4Vs5YjOYiA)</br>
 > [Android性能优化-过渡绘制解决方案 ]( http://mp.weixin.qq.com/s/G9Ppkf_VVWE2wE08jGLhdw)</br>
+> [Bitmap优化原理](http://blog.csdn.net/guolin_blog/article/details/9316683)</br>
 
 调试
 > [Android Studio 调试技巧 ]( http://mp.weixin.qq.com/s/RzZ8rhYWZQ9ncdci1cRvJA)</br>
