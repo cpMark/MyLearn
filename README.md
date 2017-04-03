@@ -58,6 +58,7 @@ Android和H5交互
 > [Android和H5交互-基础篇 ]( http://www.jianshu.com/p/a25907862523)</br>
 > [Android和H5交互-框架篇 ]( http://www.jianshu.com/p/02afb387b6b4)</br>
 > [Android开发：最全面、最易懂的Webview使用详解 ]( http://www.jianshu.com/p/3c94ae673e2a)</br>
+> [Android native和h5混合开发几种常见的hybrid通信方式](http://blog.csdn.net/jdsjlzx/article/details/51376739)</br>
 
 线程
 > [线程、多线程与线程池总结 ]( http://www.jianshu.com/p/b8197dd2934c)</br>
