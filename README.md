@@ -92,6 +92,7 @@ RecyclerView
 
 小技巧
 > [Android中一些你可能没注意的小效果实现 ]( http://mp.weixin.qq.com/s/OWOcVtb59Q5R49HBAWBC6w)</br>
+> [Android 点击屏幕除TextView区域软键盘自动消失](http://blog.csdn.net/qq_30835655/article/details/53320666)</br>
 
 版本管理
 > [SourceTree的使用 ]( http://www.jianshu.com/p/5be78fd1b0cb)</br>
