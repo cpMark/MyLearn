@@ -53,6 +53,7 @@ Hanlder机制
 
 数据库
 > [Android实战——GreenDao3.2的使用，爱不释手 ]( http://mp.weixin.qq.com/s/4Nx2DacsK65O5LanPZUszA)</br>
+> [GreenDao多表关联](http://www.tuicool.com/articles/Mb2uIje)</br>
 
 Android和H5交互
 > [Android和H5交互-基础篇 ]( http://www.jianshu.com/p/a25907862523)</br>
