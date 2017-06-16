@@ -5,7 +5,7 @@
 
 各种工具
 > [Android开发时，那些相见恨晚的工具或网站！](https://mp.weixin.qq.com/s/-tt3IMjIRUFvU-Xw8mjFtw) </br>
->[stetho调试数据库]（http://www.jianshu.com/p/03da9f91f41f）</br>
+> [stetho调试数据库](http://www.jianshu.com/p/03da9f91f41f)</br>
 
 开发规范
 > [Android 你应该注意的开发规范 ]( http://mp.weixin.qq.com/s/Xn7fM4zsNrvpDW8xW2m_hQ)</br>
